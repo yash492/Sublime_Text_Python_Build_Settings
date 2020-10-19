@@ -1,0 +1,6 @@
+{
+    "cmd": ["start", "cmd", "/k", "C:/Users/jainy/AppData/Local/Programs/Python/Python38/python.exe", "$file"],
+    "selector": "source.python",
+    "shell": true,
+    "working_dir": "$file_dir"
+}
